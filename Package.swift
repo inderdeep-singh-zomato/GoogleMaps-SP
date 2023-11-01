@@ -41,28 +41,28 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GoogleMaps",
-            url: "https://github.com/YAtechnologies/GoogleMaps-SP/releases/download/7.3.0/GoogleMaps.xcframework.zip",
-            checksum: "aeff4924742c68ffc73c0b6044f537ed6003271f127ac95647dba5b2f1093877"
+            url: "https://github.com/darrarski/GoogleMaps-SP/releases/download/7.1.0/GoogleMaps.xcframework.zip",
+            checksum: "825102248e774c68c330cad1873834864ad152441bb36effbcb23993d1e1da4a"
         ),
         .binaryTarget(
             name: "GoogleMapsBase",
-            url: "https://github.com/YAtechnologies/GoogleMaps-SP/releases/download/7.3.0/GoogleMapsBase.xcframework.zip",
-            checksum: "2d0aa03e3f8e25642510b76775012a6705e9a202b05ec0f0e6e12e95d99cf68b"
+            url: "https://github.com/darrarski/GoogleMaps-SP/releases/download/7.1.0/GoogleMapsBase.xcframework.zip",
+            checksum: "485e5123233f682befcd6e9e13c7452abdcbc2992dedad1bbb9326a541af5e04"
         ),
         .binaryTarget(
             name: "GoogleMapsCore",
-            url: "https://github.com/YAtechnologies/GoogleMaps-SP/releases/download/7.3.0/GoogleMapsCore.xcframework.zip",
-            checksum: "9fecb7eb5be96618666b0d7cc534ced620201290367d6eb91e2aef583fdd79d9"
+            url: "https://github.com/darrarski/GoogleMaps-SP/releases/download/7.1.0/GoogleMapsCore.xcframework.zip",
+            checksum: "77123c2d929d22502498e0bf1581f32355e4bd1e8211ef288c7869e981051002"
         ),
         .binaryTarget(
             name: "GoogleMapsM4B",
-            url: "https://github.com/YAtechnologies/GoogleMaps-SP/releases/download/7.3.0/GoogleMapsM4B.xcframework.zip",
-            checksum: "298a8dcc6a0497fac4cd52a509d3e3902766cfb68b79355095a9834f5e24c160"
+            url: "https://github.com/darrarski/GoogleMaps-SP/releases/download/7.1.0/GoogleMapsM4B.xcframework.zip",
+            checksum: "e6290834d28f6a3ead9180bf83f85b4fe5954e1c20efd6f5eaffafbcbfc6a390"
         ),
         .binaryTarget(
             name: "GooglePlaces",
-            url: "https://github.com/YAtechnologies/GoogleMaps-SP/releases/download/7.3.0/GooglePlaces.xcframework.zip",
-            checksum: "f4a111df53799c124dad7a8e31d2266d282fb7771d0ada2b44612aa824e4b475"
+            url: "https://github.com/darrarski/GoogleMaps-SP/releases/download/7.1.0/GooglePlaces.xcframework.zip",
+            checksum: "f03f9ea1e7357df6b42b41e8fe8ca9c7b28c05f9a0305dab4997cc8b04d61503"
         )
     ]
 )
