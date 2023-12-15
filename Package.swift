@@ -28,18 +28,18 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GoogleMaps",
-            url: "https://github.com/inderdeep-singh-zomato/GoogleMaps-SP/releases/download/8.2.0/GoogleMaps.xcframework.zip",
-            checksum: "bd180a202c00aa392f00bb826ab6264d0ec2a6930db94cee91682627a819226d"
+            url: "https://github.com/inderdeep-singh-zomato/GoogleMaps-SP/releases/download/6.2.1/GoogleMaps.xcframework.zip",
+            checksum: "cce289eb7f8cdfda6e749b3490981188b326b1b7888d1758e696147cfc77e5fc"
         ),
         .binaryTarget(
             name: "GoogleMapsBase",
-            url: "https://github.com/inderdeep-singh-zomato/GoogleMaps-SP/releases/download/8.2.0/GoogleMapsBase.xcframework.zip",
-            checksum: "cef1012550eb1b630e491bdb5cd2813f5a32843d92ebd5ab2cd79c90cbf8eac7"
+            url: "https://github.com/inderdeep-singh-zomato/GoogleMaps-SP/releases/download/6.2.1/GoogleMapsBase.xcframework.zip",
+            checksum: "d4eacc091ae79c7fb0698a4bcb2dfad60767e2fa8f840b1270ae501f7feace5f"
         ),
         .binaryTarget(
             name: "GoogleMapsCore",
-            url: "https://github.com/inderdeep-singh-zomato/GoogleMaps-SP/releases/download/8.2.0/GoogleMapsCore.xcframework.zip",
-            checksum: "98247c870a7d7b5d0481c9a7fcc200be6759d90cf3a97ff8cf62a4203f6f5362"
+            url: "https://github.com/inderdeep-singh-zomato/GoogleMaps-SP/releases/download/6.2.1/GoogleMapsCore.xcframework.zip",
+            checksum: "7908b1f884fb68094fca0c926258720fd8103f6ad2f5d19221c66ebc378406a3"
         )
     ]
 )
